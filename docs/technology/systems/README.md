@@ -10,6 +10,11 @@ Use this folder for systems knowledge such as:
 ## Topic folders
 
 - `operating-system-fundamentals`
+  - `desktop-operating-systems`
+  - `server-operating-systems`
+  - `mobile-operating-systems`
+  - `embedded-operating-systems`
+  - `real-time-operating-systems`
 - `computer-architecture`
 - `distributed-systems`
 - `performance-tuning-and-troubleshooting`
