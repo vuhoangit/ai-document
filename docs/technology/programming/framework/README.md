@@ -8,12 +8,21 @@ Tài liệu về framework phát triển ứng dụng.
 - [React](./react/)
 - [Vue](./vue/)
 - [Angular](./angular/)
+- [Nuxt](./nuxt/)
 
 ### Backend
 - [Django](./django/)
 - [Spring Boot](./spring-boot/)
 - [Laravel](./laravel/)
 - [NestJS](./nestjs/)
+
+### Go Framework
+- [Gin](./gin/)
+- [Fiber](./fiber/)
+
+### Rust Framework
+- [Axum](./axum/)
+- [Actix Web](./actix-web/)
 
 ### CSS Framework
 - [Bootstrap](./bootstrap/)
