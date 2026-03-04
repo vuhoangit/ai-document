@@ -110,6 +110,11 @@ docs/
 
 - [Systems overview](./technology/systems/README.md)
 - [Operating system fundamentals](./technology/systems/operating-system-fundamentals/README.md)
+  - [Desktop operating systems](./technology/systems/operating-system-fundamentals/desktop-operating-systems/README.md)
+  - [Server operating systems](./technology/systems/operating-system-fundamentals/server-operating-systems/README.md)
+  - [Mobile operating systems](./technology/systems/operating-system-fundamentals/mobile-operating-systems/README.md)
+  - [Embedded operating systems](./technology/systems/operating-system-fundamentals/embedded-operating-systems/README.md)
+  - [Real-time operating systems](./technology/systems/operating-system-fundamentals/real-time-operating-systems/README.md)
 - [Computer architecture](./technology/systems/computer-architecture/README.md)
 - [Distributed systems](./technology/systems/distributed-systems/README.md)
 - [Performance tuning and troubleshooting](./technology/systems/performance-tuning-and-troubleshooting/README.md)
