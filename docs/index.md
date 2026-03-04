@@ -5,6 +5,7 @@ This documentation is organized by clear topic groups. Each group contains subfo
 ## Available topic groups
 
 - [Technology](./technology/index.md)
+- [Knowledge map (for AI ingestion)](./knowledge-map.md)
 
 ## Directory map
 
