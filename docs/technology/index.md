@@ -7,4 +7,5 @@ Technology documents are grouped into major topics:
 - [Data](./data/README.md)
 - [AI](./ai/README.md)
 - [DevOps](./devops/README.md)
+- [Operations](./operations/README.md)
 - [Security](./security/README.md)
