@@ -28,6 +28,12 @@ docs/
     │   ├── infrastructure-as-code/
     │   ├── observability-and-monitoring/
     │   └── reliability-and-incident-response/
+    ├── operations/
+    │   ├── runbooks-and-sops/
+    │   ├── service-operations/
+    │   ├── change-and-release-management/
+    │   ├── capacity-and-performance-management/
+    │   └── on-call-and-escalation/
     └── security/
 ```
 
