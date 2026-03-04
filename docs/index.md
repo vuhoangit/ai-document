@@ -10,13 +10,12 @@ This documentation is organized by clear topic groups. Each group contains subfo
 
 ```text
 docs/
-└── knowledge-domains/
-    ├── technology/
-    │   ├── programming/
-    │   ├── network/
-    │   ├── data/
-    │   │   └── retrieval-augmented-generation/
-    │   └── security/
+└── technology/
+    ├── programming/
+    ├── network/
+    ├── data/
+    │   └── retrieval-augmented-generation/
+    └── security/
 ```
 
 ## Naming convention
